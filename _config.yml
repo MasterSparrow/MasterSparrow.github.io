@@ -98,16 +98,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Microsoft",
+        href: "https://www.microsoft.com/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Write like Anthropologist",
+        href: "https://www.lse.ac.uk/anthropology/study/How-To-Write-Like-an-Anthropologist"
     }
 ]
